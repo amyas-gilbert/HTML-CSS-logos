@@ -1,0 +1,26 @@
+* {
+	box-sizing: content-box;
+}
+
+#css-logo {
+	position: relative;
+}
+
+
+#css-logo #css-badge {
+	position: relative;
+	top: 200px;
+	left: 600px;
+}
+
+
+#css-logo #left-trap {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	
+	border-top: 400px solid #1473b6;
+	border-right: 200px solid #1473b6;
+	border-bottom: 50px solid transparent;
+	border-left: 50px solid transparent;
+}

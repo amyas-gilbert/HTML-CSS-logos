@@ -1,5 +1,5 @@
 * {
-	box-sizing: content-box;
+	box-sizing: border-box;
 }
 
 #html-logo {
@@ -130,7 +130,7 @@
 	left: 100px;
 }
 
-#outer-trap {
+#html-logo #outer-trap {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -143,7 +143,7 @@
 	border-right: 50px solid transparent;
 }
 
-#triangle {
+#html-logo #triangle {
 	position: absolute;
 	top: 400;
 	left: 50;
@@ -156,7 +156,7 @@
 	border-right: 150px solid transparent;
 }
 
-#inner-trap {
+#html-logo #inner-trap {
 	position: absolute;
 	top: 30px;
 	left: 200px;
